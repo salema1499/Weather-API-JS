@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(30,32,43);
+    font-family: Roboto, "Open Sans", sans-serif;;
+
+}
+nav .row span{
+    color: #bfc1c8;
+}
+span{
+    
+Color:#bfc1c8
+
+}
+.spanbut{
+    padding-bottom: 15px;
+
+    margin-left: 15px;
+}
+
+.mb-25{
+    margin-bottom: 25px;
+}
+
+.bg-3{
+    background-color: #262837;
+    height: auto;
+}
+input{
+    background-color:rgb(30,32,43) !important; 
+    color: #bfc1c8 !important;
+    padding: 15px;
+    
+}
+.mbut-5{
+    margin-bottom: 18%
+}
+.form-control{
+    border: 0;
+    color: #bfc1c8 !important;
+    padding: 0;
+}
+::placeholder {
+    color: #bfc1c8 !important;
+    
+   
+  }
+.btn1{
+    color:#009bd9;
+    border: 2px #009bd9 solid;
+}
+.btn2{
+    color: #fff;
+}
+.sunny{
+    color: #009bd9;
+}
+.btn2:hover{
+    color:#009bd9;
+    border: 2px #009bd9 solid;
+
+}
+
+.tableme .one{
+    color: #bfc1c8;
+    background-color:rgb(50,52,69);
+    border-radius: 5% 0% 0% 5%;
+}
+.tableme .three{
+    color: #bfc1c8;
+    background-color:rgb(50,52,69);
+    border-radius: 0% 5% 5% 0%;
+}
+.tableme{
+     margin-top: 10%;
+     margin-left:auto;
+     margin-right: auto;
+     background-color: transparent !important;
+    
+    
+}
+.ptitle{
+
+    color: #908b89 !important;
+   margin-top: 5px;
+}
+.one .ptitle{
+    color: #817e7d;
+}
+
+.tableme>:not(caption)>*>*{
+    background-color: transparent !important;
+    color: white !important;
+    border-radius:50% !important;
+   
+    
+}
+.na:hover{
+   border: #009bd9;
+   color: #fff;
+   border: 2px;
+}
+.btnbut{
+    background-color: rgb(30,32,43);
+    padding: 15px;
+    color: #009bd9;
+}
+.btnbut:hover{
+    color: #ffffff;
+    background-color:#009bd9
+}
+.tableme .two{
+    color: #bfc1c8;
+    background-color:rgb(38,40,55)
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-10{
+    font-size: 10px;
+}
+.fs-90{
+    font-size: 90px;
+}
+.fw-900{
+    font-weight: 900;
+}
+.fw-700{
+    font-weight: 700;
+}
+.fw-300{
+    font-weight: 300;
+}
+
+.fw-400{
+    font-weight: 400;
+}
+.lh-21{
+    line-height: 21px;
+}
+.lh-15{
+    line-height: 15px;
+}
+.lh-135{
+    line-height: 135px;
+}
